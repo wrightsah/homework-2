@@ -1,0 +1,46 @@
+/* 
+
+Colors
+
+#7e95b5,
+#212322,
+#505759,
+#a3bbe0,
+#7a898f 
+
+*/
+
+body {
+    background-color: #ebe8e6;
+}
+
+h1 {
+    padding: 15px;
+    font-family: 'Noto Serif', serif;
+
+}
+
+p { 
+    padding: 15px;
+    font-family: 'Noto Sans', sans-serif;
+    color: #7d7f77;
+}
+
+main {
+    margin-top: 100px;
+
+}
+
+section {
+    background-color: #ffffff;
+}
+
+img {
+    width: 350px;
+    padding: 15px;
+}
+
+.contact-form {
+    font-family: 'Noto Sans', sans-serif;
+}
+
