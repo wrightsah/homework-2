@@ -2,6 +2,8 @@
 
 ## The Project
 
+https://wrightsah.github.io/homework-2/index.html
+
 This site was built to demonstrate the fuctions of responsive design, and how they will perform across different types of displays. 
 
 To account for end user experience across various devices, the web page will adjust its formatting to deliver an optimized experience. 
