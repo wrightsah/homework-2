@@ -1,6 +1,6 @@
 /* 
 
-Colors
+Color palette
 
 #7e95b5,
 #212322,
@@ -17,7 +17,10 @@ body {
 h1 {
     padding: 15px;
     font-family: 'Noto Serif', serif;
+}
 
+h4 {
+    font-family: 'Noto Serif', serif;
 }
 
 p { 
@@ -28,6 +31,7 @@ p {
 
 main {
     margin-top: 100px;
+    margin-bottom: 100px;
 
 }
 
